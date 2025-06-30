@@ -1,0 +1,25 @@
+.page-header{
+    text-align: center;
+}
+.h3, h3 {
+    background-color: #efefef;
+    border-bottom: solid 1px #d7d7d7;
+}
+.row {
+    margin-bottom: 20px;
+}
+.recuo{
+    margin-left: 1rem;
+    font-size: 1.1rem;
+    margin-bottom: 0.1rem;
+}
+dl{
+    margin-left: 1.8rem;
+}
+dd {
+    margin-left: 1rem;
+}
+.dt-date{
+    background-color: #e1f9e1;
+    width: fit-content;
+}
